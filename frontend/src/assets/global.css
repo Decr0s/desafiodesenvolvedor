@@ -1,0 +1,19 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+html,body, #root{
+    height: 100vh;
+}
+
+
+.content {
+    width: 100vw;
+    height: 100vh;
+    display: flex;
+    justify-content: center;
+    padding-top: 100px;
+    background: url("https://www.lfnetworking.org/wp-content/uploads/sites/55/2018/05/bg_lfn.jpg") repeat scroll center center;
+}
